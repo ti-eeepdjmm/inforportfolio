@@ -1,5 +1,5 @@
-# Projeto Portfófio Infor 💻📱💼🗒
-Projeto de `estudo de caso` sobre a criação de uma `landpage` de uma página de *Portfólio profissional*. Projeto desenvolvido de forma gradual na Disciplina de **Laboratório de programação Web**.
+# Projeto Inforportfófio 💻📱💼🗒
+Projeto de `estudo de caso` sobre a criação de uma `landpage` de *Portfólio profissional*. Projeto desenvolvido de forma gradual na Disciplina de **Laboratório de programação Web** do curso Técnico em Informática.
 
 ### 🎨 Wireframe figma
 Segue o modelo da landpage no [Figma](https://www.figma.com/file/e3ibqynWILDyZbjIBL7o5N/Inforportfolio)
@@ -40,6 +40,6 @@ O Desafio dura 4 semanas. Todas a semana o professor instrutor resolverá parte 
 ## 🚩 Status / Info
 
 ![](https://img.shields.io/badge/npm-v.8.1.0-blue)
-![](https://img.shields.io/github/stars/rickalves/alurageek.svg)
-![](https://img.shields.io/github/commit-activity/w/rickalves/alurageek.svg)
-![](https://img.shields.io/github/license/rickalves/alurageek.svg)
+![](https://img.shields.io/github/stars/ti-eeepdjmm/inforportfolio.svg)
+![](https://img.shields.io/github/commit-activity/w/ti-eeepdjmm/inforportfolio.svg)
+![](https://img.shields.io/github/license/ti-eeepdjmm/inforportfolio.svg)
