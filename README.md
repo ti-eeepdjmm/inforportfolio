@@ -2,7 +2,7 @@
 Projeto de `estudo de caso` sobre a criação de uma `landpage` de *Portfólio profissional*. Projeto desenvolvido de forma gradual na Disciplina de **Laboratório de programação Web** do curso Técnico em Informática.
 
 ### 🎨 Wireframe figma
-Segue o modelo da landpage no [Figma.](https://www.figma.com/file/e3ibqynWILDyZbjIBL7o5N/Inforportfolio)
+Segue o modelo da landpage no [Figma.](https://www.figma.com/file/e3ibqynWILDyZbjIBL7o5N/Inforportfolio?node-id=13%3A2)
 
 
 
