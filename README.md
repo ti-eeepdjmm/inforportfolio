@@ -1,4 +1,4 @@
-# Projeto Inforportfófio 💻📱💼🗒
+# Projeto Inforportfólio 💻📱💼🗒
 Projeto de `estudo de caso` sobre a criação de uma `landpage` de *Portfólio profissional*. Projeto desenvolvido de forma gradual na Disciplina de **Laboratório de programação Web** do curso Técnico em Informática.
 
 ### 🎨 Wireframe figma
