@@ -10,7 +10,7 @@ Segue o modelo da landpage no [Figma.](https://www.figma.com/file/e3ibqynWILDyZb
 
 Olá, devs!
 
-Neste repositório você encontrará uma página de portfólio para profissional de TI o **Inforportfolio**, que está sendo desenvolvida como resultado de um estudo de caso da disciplina de laboratório Web da turma de `3º ano de Informática`  exclusivo para alunos da escola profissional [EPDJMM](https://www.instagram.com/eeepdepjosemariamelo/).
+Neste repositório você encontrará uma página de portfólio para profissional de TI o **Inforportfolio**, que está sendo desenvolvida como resultado de um estudo de caso da disciplina de Laboratório Web da turma de `3º ano de Informática` da escola profissional [EPDJMM](https://www.instagram.com/eeepdepjosemariamelo/).
 
 ## 🦾 **Sobre o desafio**
 
