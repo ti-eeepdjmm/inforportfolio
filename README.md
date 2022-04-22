@@ -16,17 +16,17 @@ Neste repositório você encontrará uma página de portfólio para profissional
 
 O Desafio simula um ambiente de trabalho real, com tarefas exigidas pelo **Product Owner** por meio de um **Product Log** que será apresentado por meio de cartões no **Trello** para que os alunos possam experimentar como é um projeto real em um ambiente trabalho. É necessário comunicar-se e entender o que realmente deve ser feito em cada tarefa do **Product Log**. Você pode adicionar recursos e sugerir modificações caso tenha ideias melhores e assim por diante.
 
-Para realizar as tarefas específicas do desafio, será preciso ter os conhecimentos básicos de `CSS 3` e `HTML 5`. O professor instrutor preparou um plano de estudos com dicas de conteúdos a serem revisados e estudados para resolver as tarefas que envolvem Nodejs e Javascript.
+Para realizar as tarefas específicas do desafio, será preciso ter os conhecimentos básicos de `CSS 3` e `HTML 5`. O desenvolvimento da página irá segue a metodologia de `Mobile first`, sendo construída primeiro a versão da página mobile e em seguida evoluída para as telas de `Tablet`e `Desktop`. O professor instrutor preparou um plano de estudos com dicas de conteúdos a serem revisados e estudados para resolver as tarefas que envolvem Nodejs e Javascript.
 
 O Desafio dura 4 semanas. Todas a semana o professor instrutor resolverá parte do desafio com os estudantes até que o projeto seja concluído. Na 4ª semana, os estudante terão a possibilidade implementar novos recursos ou brincar com estilos e outras questões de aparência.
 
 
-## 📈 **Andamento do projeto**
+## 📈 **Cronograma do projeto**
 
-- **`1ª Semana:`** Clone do projeto do Github e desenvolvimento das estilizações da seção `Bio` e `Sobre` seguindo o Wireframe do Figma. Nessa fase as tecnologias utilzadas são **HTML e CSS**.
-- **`2ª Semana:`** Implementação dos formulários da login e cadastro de produtos.
-- **`3ª Semana:`** Criação de rotas e controllers e implementação do banco de dados local com Json Server. Para as rotas optei por usar o React Router .
-- **`4ª Semana:`** Finalização do projeto com cadastro dos itens no banco de dados e funcionalidade de adicionar mais produtos e validações de formulários.
+- **`1ª Semana:`** Clone do projeto do Github e desenvolvimento das estilizações das seções `Header` e `Bio` seguindo o Wireframe do Figma. Nessa fase as tecnologias utilzadas são **HTML e CSS** e o **Javascript** para criar um efeito de toggle menu.
+- **`2ª Semana:`** Desenvolvimento das estilizações das seções `Sobre` e `Habilidades`.
+- **`3ª Semana:`** Desenvolvimento das estilizações das seções `Projetos` e `Contato` e funcionalidade de envio de email.
+- **`4ª Semana:`** Finalização do projeto com ajustes de responsividade e publicação do site com o `Github pages`.
 
 ## 💻 Tecnologias Utilizadas:
 
