@@ -18,7 +18,7 @@ O Desafio simula um ambiente de trabalho real, com tarefas exigidas pelo **Produ
 
 Para realizar as tarefas específicas do desafio, será preciso ter os conhecimentos básicos de `CSS 3` e `HTML 5`. O desenvolvimento da página irá seguir a metodologia de `Mobile first`, sendo construída primeiro a versão da página `Mobile` e em seguida evoluída para as telas de `Tablet` e `Desktop`. O professor instrutor preparou um plano de estudos com dicas de conteúdos a serem revisados e estudados para resolver as tarefas que envolvem Nodejs e Javascript.
 
-O Desafio dura 4 semanas. Todas a semana o professor instrutor resolverá parte do desafio com os estudantes até que o projeto seja concluído. Na 4ª semana, os estudante terão a possibilidade implementar novos recursos ou brincar com estilos e outras questões de aparência.
+O Desafio dura 4 semanas. Toda semana o professor instrutor resolverá parte do desafio com os estudantes até que o projeto seja concluído. Na 4ª semana, os estudantes terão a possibilidade implementar novos recursos ou brincar com os estilos.
 
 
 ## 📈 **Cronograma do projeto**
