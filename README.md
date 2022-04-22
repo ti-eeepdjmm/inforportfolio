@@ -16,7 +16,7 @@ Neste repositório você encontrará uma página de portfólio para profissional
 
 O Desafio simula um ambiente de trabalho real, com tarefas exigidas pelo **Product Owner** por meio de um **Product Log** que será apresentado por meio de cartões no **Trello** para que os alunos possam experimentar como é um projeto real em um ambiente trabalho. É necessário comunicar-se e entender o que realmente deve ser feito em cada tarefa do **Product Log**. Você pode adicionar recursos e sugerir modificações caso tenha ideias melhores e assim por diante.
 
-Para realizar as tarefas específicas do desafio, será preciso ter os conhecimentos básicos de `CSS 3` e `HTML 5`. O desenvolvimento da página irá segue a metodologia de `Mobile first`, sendo construída primeiro a versão da página mobile e em seguida evoluída para as telas de `Tablet`e `Desktop`. O professor instrutor preparou um plano de estudos com dicas de conteúdos a serem revisados e estudados para resolver as tarefas que envolvem Nodejs e Javascript.
+Para realizar as tarefas específicas do desafio, será preciso ter os conhecimentos básicos de `CSS 3` e `HTML 5`. O desenvolvimento da página irá seguir a metodologia de `Mobile first`, sendo construída primeiro a versão da página `Mobile` e em seguida evoluída para as telas de `Tablet` e `Desktop`. O professor instrutor preparou um plano de estudos com dicas de conteúdos a serem revisados e estudados para resolver as tarefas que envolvem Nodejs e Javascript.
 
 O Desafio dura 4 semanas. Todas a semana o professor instrutor resolverá parte do desafio com os estudantes até que o projeto seja concluído. Na 4ª semana, os estudante terão a possibilidade implementar novos recursos ou brincar com estilos e outras questões de aparência.
 
