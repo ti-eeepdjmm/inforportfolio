@@ -4,17 +4,30 @@
   color:var(--cor-primaria);
   display:flex;
   justify-content: space-between;
+  align-items: center;
+  padding: 0px 10px;
 }
 
-.menu > ul{
+.header > h1{
+  font-size: 2rem;
+  font-weight: 600;
+}
+
+
+.menu{
   background-color: var(--cor-primaria);
-  display: flex;
+  display: none;
   flex-direction: column;
   row-gap: 10px;
   padding: 30px 20px;
   position: absolute;
   top:80px;
-  right: 0px;
+  right:-35vw;
+}
+
+.menu--visivel{
+  display: flex;
+  right: 0vw;
 }
 
 .menu .menu__link{
@@ -25,10 +38,18 @@
   height:40px;
   width: 40px;
   background-color: var(--cor-primaria);
+  border: none;
 
 }
 
 .btn-toggle .btn-toggle__icon{
   height:20px;
   cursor: pointer;
+}
+.logo{
+  width: 70px;
+}
+
+.logo > .logo__image{
+  width:100%;
 }
