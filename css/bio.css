@@ -1,0 +1,20 @@
+.bio{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.bio__perfil{
+    border: 5px solid var(--cor-secundaria);
+    border-radius: 100%;
+    width: 241px;
+    height: 241px;
+    box-shadow:0 0 0 5px var(--cor-primaria);
+    margin-top: 50px;
+    overflow: hidden;
+}
+
+.bio__foto-perfil{
+    height: 100%;
+}
