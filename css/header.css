@@ -27,7 +27,11 @@
 
 .menu--visivel{
   display: flex;
-  right: 0vw;
+  animation-name: mostra-menu;
+  animation-duration: 0.9s;
+  animation-timing-function: ease-in-out;
+  animation-direction: alternate;
+  animation-fill-mode: both;
 }
 
 .menu .menu__link{
@@ -52,4 +56,14 @@
 
 .logo > .logo__image{
   width:100%;
+}
+
+@keyframes mostra-menu{
+  from{
+    opacity: 0.2;
+  }
+  to{
+    opacity: 1;
+    right:0vw;
+  }
 }
